@@ -72,6 +72,8 @@ public class CropService {
           newCrops.getId(),
           newCrops.getName(),
           newCrops.getPlantedArea(),
+          newCrops.getPlantedDate(),
+          newCrops.getHarvestDate(),
           newCrops.getFarm().getId()
       );
       return cropDto;
@@ -92,6 +94,8 @@ public class CropService {
                 crop.getId(),
                 crop.getName(),
                 crop.getPlantedArea(),
+                crop.getPlantedDate(),
+                crop.getHarvestDate(),
                 crop.getFarm().getId()
             ))
         ).toList();
@@ -114,6 +118,8 @@ public class CropService {
         optionalCrop.get().getId(),
         optionalCrop.get().getName(),
         optionalCrop.get().getPlantedArea(),
+        optionalCrop.get().getPlantedDate(),
+        optionalCrop.get().getHarvestDate(),
         optionalCrop.get().getFarm().getId()
     );
     return cropDto;

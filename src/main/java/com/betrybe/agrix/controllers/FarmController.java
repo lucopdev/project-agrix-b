@@ -88,6 +88,7 @@ public class FarmController {
   public CropDto insertCrop(@RequestBody Crop crop, @PathVariable Integer id) {
     Crop newCrop = cropService.createCrop(crop, id);
     CropDto cropDto = new CropDto(newCrop.getId(), newCrop.getName(), newCrop.getPlantedArea(),
+        newCrop.getPlantedDate(), newCrop.getHarvestDate(),
         newCrop.getFarm().getId());
     return cropDto;
   }

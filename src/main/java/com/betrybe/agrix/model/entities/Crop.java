@@ -9,6 +9,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
+import java.time.LocalDate;
 
 /**
  * The type Crop.
@@ -25,6 +26,10 @@ public class Crop {
 
   @Column(name = "planted_area")
   private Double plantedArea;
+
+  private LocalDate plantedDate;
+
+  private LocalDate harvestDate;
 
   @ManyToOne
   @JoinColumn(name = "farm_id")
@@ -44,11 +49,15 @@ public class Crop {
    * @param name        the name
    * @param plantedArea the planted area
    */
-  public Crop(Integer id, String name, Double plantedArea, Farm farm) {
+  public Crop(Integer id, String name, Double plantedArea, LocalDate plantedDate,
+      LocalDate harvestDate,
+      Farm farm) {
     this.id = id;
     this.name = name;
     this.plantedArea = plantedArea;
     this.farm = farm;
+    this.plantedDate = plantedDate;
+    this.harvestDate = harvestDate;
   }
 
   /**
@@ -67,6 +76,22 @@ public class Crop {
    */
   public void setFarm(Farm farm) {
     this.farm = farm;
+  }
+
+  public LocalDate getPlantedDate() {
+    return plantedDate;
+  }
+
+  public void setPlantedDate(LocalDate plantedDate) {
+    this.plantedDate = plantedDate;
+  }
+
+  public LocalDate getHarvestDate() {
+    return harvestDate;
+  }
+
+  public void setHarvestDate(LocalDate harvestDate) {
+    this.harvestDate = harvestDate;
   }
 
   /**
