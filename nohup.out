@@ -1,0 +1,300 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+Do not use URL connection as JarURLConnection
+2023-11-28 14:23:26,814 [   3597]   WARN - #c.i.c.ComponentStoreImpl - Duplicated scheme Light - old: Light, new Light
+
+Info  | RdCoroutineScope          | 33:DefaultDispatcher-worker-19 | RdCoroutineHost overridden 
+2023-11-28 14:23:30,963 [   7746]   WARN - #o.j.i.maven - performImport async: Linear Import is disabled
+2023-11-28 14:23:31,149 [   7932]   WARN - #o.j.i.maven - Trying to add the same listener twice
+2023-11-28 14:23:31,157 [   7940]   WARN - #o.j.i.maven - updateAllMavenProjectsSync started, edt=false
+2023-11-28 14:23:32,630 [   9413]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings.
+2023-11-28 14:23:32,632 [   9415]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/idea-IC-232.10203.10/plugins/maven/lib/maven36-server.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-11-28 14:23:32,633 [   9416]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/idea-IC-232.10203.10/lib/util-8.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-11-28 14:23:32,633 [   9416]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+2023-11-28 14:23:32,633 [   9416]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory]
+2023-11-28 14:23:39,545 [  16328]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-final-agrix-fase-b
+2023-11-28 14:23:41,679 [  18462]   WARN - #o.j.i.maven - updateAllMavenProjectsSync finished, edt=false
+2023-11-28 14:23:41,735 [  18518]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-final-agrix-fase-b
+2023-11-28 14:23:44,352 [  21135]   WARN - #o.j.i.maven - forceUpdateAllProjectsOrFindAllAvailablePomFiles: Linear Import is disabled
+2023-11-28 14:23:44,353 [  21136]   WARN - #o.j.i.maven - doScheduleUpdateProjects: Linear Import is disabled
+2023-11-28 14:23:44,354 [  21137]   WARN - #o.j.i.maven - updateAllMavenProjectsSync started, edt=false
+2023-11-28 14:23:45,355 [  22138]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-final-agrix-fase-b
+2023-11-28 14:23:45,519 [  22302]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-final-agrix-fase-b
+2023-11-28 14:23:45,546 [  22329]   WARN - #o.j.i.maven - updateAllMavenProjectsSync finished, edt=false
+2023-11-28 14:23:46,479 [  23262]   WARN - #c.i.o.v.ExternallyAddedFilesProcessorImpl - Cannot find project config directory for non-default and non-directory based project java-029-java-projeto-final-agrix-fase-b
+2023-11-28 14:24:09,529 [  46312]   WARN - #c.i.o.m.LanguageLevelUtil - File not found: api22.txt
+2023-11-29 09:01:45,793 [67102576]   WARN - #c.i.u.x.Binding - no accessors for java.time.LocalTime
+2023-11-29 10:09:57,538 [71194321]   WARN - #git4idea.annotate.GitAnnotationProvider - Git annotations are empty for file /home/lucopdev/trybe/java/projetos/java-029-java-projeto-final-agrix-fase-b/Dockerfile in revision 373ab20068527d711bd9c2e850d22bf586d5c09f
+2023-11-29 10:39:46,802 [72983585]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+
+2023-11-29 10:40:15,847 [73012630]   WARN - #o.j.i.maven - updateAllMavenProjectsSync started, edt=false
+2023-11-29 10:40:15,852 [73012635]   WARN - #o.j.i.maven - updateAllMavenProjectsSync finished, edt=false
+2023-11-29 10:40:19,241 [73016024]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings.
+2023-11-29 10:40:19,243 [73016026]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/idea-IC-232.10203.10/plugins/maven/lib/maven36-server.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-11-29 10:40:19,244 [73016027]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/idea-IC-232.10203.10/lib/util-8.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-11-29 10:40:19,244 [73016027]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+2023-11-29 10:40:19,248 [73016031]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory]
+2023-11-29 10:40:23,880 [73020663]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 10:40:59,744 [73056527]   WARN - #o.j.i.maven - updateMavenProjectsSync started, edt=false
+2023-11-29 10:41:01,964 [73058747]   WARN - #o.j.i.maven - updateMavenProjectsSync finished, edt=false
+2023-11-29 10:41:09,772 [73066555]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 12:31:47,945 [79704728]   WARN - org.apache.velocity.deprecation - configuration key 'resource.loader' has been deprecated in favor of 'resource.loaders'
+2023-11-29 12:31:47,956 [79704739]   WARN - org.apache.velocity.deprecation - configuration key 'includes.resource.loader.instance' has been deprecated in favor of 'resource.loader.includes.instance'
+2023-11-29 14:02:15,009 [85131792]   WARN - #c.i.d.r.d.DockerComposeDeployer - Cannot create class com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser (classloader=PluginClassLoader(plugin=PluginDescriptor(name=Docker, id=Docker, descriptorPath=plugin.xml, path=~/.local/share/JetBrains/IdeaIC2023.2/clouds-docker-impl, version=232.10203.2, package=com.intellij.docker, isBundled=false), packagePrefix=com.intellij.docker., state=active))
+com.intellij.diagnostic.PluginException: Cannot create class com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser (classloader=PluginClassLoader(plugin=PluginDescriptor(name=Docker, id=Docker, descriptorPath=plugin.xml, path=~/.local/share/JetBrains/IdeaIC2023.2/clouds-docker-impl, version=232.10203.2, package=com.intellij.docker, isBundled=false), packagePrefix=com.intellij.docker., state=active))
+	at com.intellij.serviceContainer.ComponentManagerImpl.doInstantiateClass(ComponentManagerImpl.kt:1003)
+	at com.intellij.serviceContainer.ComponentManagerImpl.instantiateClass(ComponentManagerImpl.kt:954)
+	at com.intellij.serviceContainer.ComponentManagerImpl.createLightService(ComponentManagerImpl.kt:933)
+	at com.intellij.serviceContainer.ComponentManagerImpl.getOrCreateLightService(ComponentManagerImpl.kt:736)
+	at com.intellij.serviceContainer.ComponentManagerImpl.doGetService(ComponentManagerImpl.kt:688)
+	at com.intellij.serviceContainer.ComponentManagerImpl.getService(ComponentManagerImpl.kt:630)
+	at com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser$Companion.getInstance(PureDockerComposeConfigurationParser.kt:160)
+	at com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser.getInstance(PureDockerComposeConfigurationParser.kt)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeConfigurationParserUtil.uncachedParserForUi(DockerComposeConfigurationParserUtil.java:28)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider$myCachingParser$2.invoke(DockerComposeFileConfigurationProvider.kt:38)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider$myCachingParser$2.invoke(DockerComposeFileConfigurationProvider.kt:37)
+	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:74)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider.getMyCachingParser(DockerComposeFileConfigurationProvider.kt:37)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider.getConfigFor(DockerComposeFileConfigurationProvider.kt:57)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider.getConfigFor$default(DockerComposeFileConfigurationProvider.kt:45)
+	at com.intellij.docker.runtimes.deploy.DockerComposeDeployerKt.computeComposeProjectName(DockerComposeDeployer.kt:231)
+	at com.intellij.docker.runtimes.deploy.DockerComposeDeployerKt.computeComposeProjectName(DockerComposeDeployer.kt:218)
+	at com.intellij.docker.DockerRuntimesManager.deploy(DockerRuntimesManager.kt:338)
+	at com.intellij.docker.runtimes.DockerRuntimeKt.deploy(DockerRuntime.kt:186)
+	at com.intellij.docker.runtimes.deploy.DockerDeployToServerStateProvider$DockerState$execute$1.invoke(DockerDeployToServerStateProvider.kt:68)
+	at com.intellij.docker.runtimes.deploy.DockerDeployToServerStateProvider$DockerState$execute$1.invoke(DockerDeployToServerStateProvider.kt:68)
+	at com.intellij.docker.runtimes.deploy.DockerDeployToServerStateProvider$DockerState.execute$lambda$0(DockerDeployToServerStateProvider.kt:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147)
+	at com.intellij.docker.runtimes.DockerServerRuntime$connectIfNeeded$1.invokeSuspend(DockerRuntime.kt:294)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+Caused by: java.lang.NoClassDefFoundError: com/fasterxml/jackson/dataformat/yaml/YAMLFactory
+	at com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser.<init>(PureDockerComposeConfigurationParser.kt:38)
+	at com.intellij.serviceContainer.ComponentManagerImpl.doInstantiateClass(ComponentManagerImpl.kt:962)
+	... 31 more
+Caused by: java.lang.ClassNotFoundException: com.fasterxml.jackson.dataformat.yaml.YAMLFactory PluginClassLoader(plugin=PluginDescriptor(name=Docker, id=Docker, descriptorPath=plugin.xml, path=~/.local/share/JetBrains/IdeaIC2023.2/clouds-docker-impl, version=232.10203.2, package=com.intellij.docker, isBundled=false), packagePrefix=com.intellij.docker., state=active)
+	at com.intellij.ide.plugins.cl.PluginClassLoader.loadClass(PluginClassLoader.kt:156)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 33 more
+2023-11-29 14:02:15,013 [85131796]   WARN - #c.i.d.r.d.DockerComposeDeployer - Cannot create class com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser (classloader=PluginClassLoader(plugin=PluginDescriptor(name=Docker, id=Docker, descriptorPath=plugin.xml, path=~/.local/share/JetBrains/IdeaIC2023.2/clouds-docker-impl, version=232.10203.2, package=com.intellij.docker, isBundled=false), packagePrefix=com.intellij.docker., state=active))
+com.intellij.diagnostic.PluginException: Cannot create class com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser (classloader=PluginClassLoader(plugin=PluginDescriptor(name=Docker, id=Docker, descriptorPath=plugin.xml, path=~/.local/share/JetBrains/IdeaIC2023.2/clouds-docker-impl, version=232.10203.2, package=com.intellij.docker, isBundled=false), packagePrefix=com.intellij.docker., state=active))
+	at com.intellij.serviceContainer.ComponentManagerImpl.doInstantiateClass(ComponentManagerImpl.kt:1003)
+	at com.intellij.serviceContainer.ComponentManagerImpl.instantiateClass(ComponentManagerImpl.kt:954)
+	at com.intellij.serviceContainer.ComponentManagerImpl.createLightService(ComponentManagerImpl.kt:933)
+	at com.intellij.serviceContainer.ComponentManagerImpl.getOrCreateLightService(ComponentManagerImpl.kt:736)
+	at com.intellij.serviceContainer.ComponentManagerImpl.doGetService(ComponentManagerImpl.kt:688)
+	at com.intellij.serviceContainer.ComponentManagerImpl.getService(ComponentManagerImpl.kt:630)
+	at com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser$Companion.getInstance(PureDockerComposeConfigurationParser.kt:160)
+	at com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser.getInstance(PureDockerComposeConfigurationParser.kt)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeConfigurationParserUtil.uncachedParserForUi(DockerComposeConfigurationParserUtil.java:28)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider$myCachingParser$2.invoke(DockerComposeFileConfigurationProvider.kt:38)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider$myCachingParser$2.invoke(DockerComposeFileConfigurationProvider.kt:37)
+	at kotlin.SynchronizedLazyImpl.getValue(LazyJVM.kt:74)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider.getMyCachingParser(DockerComposeFileConfigurationProvider.kt:37)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider.getConfigFor(DockerComposeFileConfigurationProvider.kt:57)
+	at com.intellij.docker.compose.configuration.beans.parse.DockerComposeFileConfigurationProvider.getConfigFor$default(DockerComposeFileConfigurationProvider.kt:45)
+	at com.intellij.docker.runtimes.deploy.DockerComposeDeployerKt.computeComposeProjectName(DockerComposeDeployer.kt:231)
+	at com.intellij.docker.runtimes.deploy.DockerComposeDeployerKt.access$computeComposeProjectName(DockerComposeDeployer.kt:1)
+	at com.intellij.docker.runtimes.deploy.DockerComposeDeployer.<init>(DockerComposeDeployer.kt:62)
+	at com.intellij.docker.DockerRuntimesManager.deploy(DockerRuntimesManager.kt:347)
+	at com.intellij.docker.runtimes.DockerRuntimeKt.deploy(DockerRuntime.kt:186)
+	at com.intellij.docker.runtimes.deploy.DockerDeployToServerStateProvider$DockerState$execute$1.invoke(DockerDeployToServerStateProvider.kt:68)
+	at com.intellij.docker.runtimes.deploy.DockerDeployToServerStateProvider$DockerState$execute$1.invoke(DockerDeployToServerStateProvider.kt:68)
+	at com.intellij.docker.runtimes.deploy.DockerDeployToServerStateProvider$DockerState.execute$lambda$0(DockerDeployToServerStateProvider.kt:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2147)
+	at com.intellij.docker.runtimes.DockerServerRuntime$connectIfNeeded$1.invokeSuspend(DockerRuntime.kt:294)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:584)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:793)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:697)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:684)
+Caused by: java.lang.NoClassDefFoundError: com/fasterxml/jackson/dataformat/yaml/YAMLFactory
+	at com.intellij.docker.compose.configuration.beans.parse.PureDockerComposeConfigurationParser.<init>(PureDockerComposeConfigurationParser.kt:38)
+	at com.intellij.serviceContainer.ComponentManagerImpl.doInstantiateClass(ComponentManagerImpl.kt:962)
+	... 32 more
+Caused by: java.lang.ClassNotFoundException: com.fasterxml.jackson.dataformat.yaml.YAMLFactory PluginClassLoader(plugin=PluginDescriptor(name=Docker, id=Docker, descriptorPath=plugin.xml, path=~/.local/share/JetBrains/IdeaIC2023.2/clouds-docker-impl, version=232.10203.2, package=com.intellij.docker, isBundled=false), packagePrefix=com.intellij.docker., state=active)
+	... 34 more
+2023-11-29 14:02:15,078 [85131861]   WARN - #o.j.p.t.AbstractTerminalRunner - Cannot get terminal size from component, defaulting to 80x24
+java.util.concurrent.CompletionException: java.lang.IllegalStateException: component should be showing
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniApplyNow(CompletableFuture.java:674)
+	at java.base/java.util.concurrent.CompletableFuture.uniApplyStage(CompletableFuture.java:662)
+	at java.base/java.util.concurrent.CompletableFuture.thenApply(CompletableFuture.java:2168)
+	at org.jetbrains.plugins.terminal.AbstractTerminalRunner.awaitTermSize(AbstractTerminalRunner.java:242)
+	at org.jetbrains.plugins.terminal.AbstractTerminalRunner.lambda$openSessionInDirectory$4(AbstractTerminalRunner.java:205)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:208)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:190)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.openapi.application.impl.ApplicationImpl$4.run(ApplicationImpl.java:478)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:79)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:121)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:41)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:792)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:739)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:733)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:761)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:690)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent$lambda$10(IdeEventQueue.kt:593)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWithoutImplicitRead(ApplicationImpl.java:1485)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:593)
+	at com.intellij.ide.IdeEventQueue.access$_dispatchEvent(IdeEventQueue.kt:67)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:369)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:368)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:368)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:363)
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$1(IdeEventQueue.kt:997)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:997)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$7(IdeEventQueue.kt:363)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:405)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+Caused by: java.lang.IllegalStateException: component should be showing
+	at org.jetbrains.plugins.terminal.exp.TerminalUiUtils.awaitComponentLayout(TerminalUiUtils.kt:84)
+	... 39 more
+2023-11-29 14:02:58,306 [85175089]   WARN - #o.j.p.t.AbstractTerminalRunner - Cannot get terminal size from component, defaulting to 80x24
+java.util.concurrent.CompletionException: java.lang.IllegalStateException: Terminal component layout is timed out (>2000ms)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:636)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at org.jetbrains.plugins.terminal.exp.TerminalUiUtils.awaitComponentLayout$lambda$2(TerminalUiUtils.kt:101)
+	at com.intellij.util.concurrency.QueueProcessor.runSafely(QueueProcessor.java:254)
+	at com.intellij.util.Alarm$Request.runSafely(Alarm.java:373)
+	at com.intellij.util.Alarm$Request.run(Alarm.java:360)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:272)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:208)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:190)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.openapi.application.impl.ApplicationImpl$4.run(ApplicationImpl.java:478)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:79)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:121)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:41)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:792)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:739)
+	at java.desktop/java.awt.EventQueue$3.run(EventQueue.java:733)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:761)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.kt:690)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent$lambda$10(IdeEventQueue.kt:593)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWithoutImplicitRead(ApplicationImpl.java:1485)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.kt:593)
+	at com.intellij.ide.IdeEventQueue.access$_dispatchEvent(IdeEventQueue.kt:67)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:369)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1$1.compute(IdeEventQueue.kt:368)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:787)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:368)
+	at com.intellij.ide.IdeEventQueue$dispatchEvent$processEventRunnable$1$1.invoke(IdeEventQueue.kt:363)
+	at com.intellij.ide.IdeEventQueueKt.performActivity$lambda$1(IdeEventQueue.kt:997)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueueKt.performActivity(IdeEventQueue.kt:997)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent$lambda$7(IdeEventQueue.kt:363)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:861)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.kt:405)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+Caused by: java.lang.IllegalStateException: Terminal component layout is timed out (>2000ms)
+	... 44 more
+
+2023-11-29 14:03:17,785 [85194568]   WARN - #o.j.i.maven - updateAllMavenProjectsSync started, edt=false
+2023-11-29 14:03:17,786 [85194569]   WARN - #o.j.i.maven - updateAllMavenProjectsSync finished, edt=false
+2023-11-29 14:03:20,630 [85197413]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Class path contains multiple SLF4J bindings.
+2023-11-29 14:03:20,630 [85197413]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/idea-IC-232.10203.10/plugins/maven/lib/maven36-server.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-11-29 14:03:20,631 [85197414]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Found binding in [jar:file:/home/lucopdev/idea-IC-232.10203.10/lib/util-8.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+2023-11-29 14:03:20,631 [85197414]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+2023-11-29 14:03:20,632 [85197415]   WARN - #c.i.e.r.RemoteProcessSupport - SLF4J: Actual binding is of type [org.jetbrains.idea.maven.server.Maven3WrapperSl4LoggerFactory]
+2023-11-29 14:03:25,663 [85202446]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 14:06:04,781 [85361564]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 14:52:05,531 [88122314]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
