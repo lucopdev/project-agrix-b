@@ -469,3 +469,15 @@ Caused by: java.lang.ClassNotFoundException: com.fasterxml.jackson.dataformat.ya
 2023-11-29 18:26:32,880 [100989663]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - ignore configurable with duplicated id: device.file.explorer
 2023-11-29 18:26:32,971 [100989754]   WARN - #c.i.o.o.e.ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting
 2023-11-29 18:27:42,375 [101059158]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 19:12:56,238 [103773021]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 19:14:06,786 [103843569]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 19:14:24,528 [103861311]   WARN - c.i.e.t.s.r.GeneralTestEventsProcessor - [JUnit]: Unexpected running nodes: [{id=[engine:junit-jupiter]/[class:com.betrybe.agrix.evaluation.CropManagementTest]/[method:testGetCrop()], parentId=[engine:junit-jupiter]/[class:com.betrybe.agrix.evaluation.CropManagementTest], name='6- Ajuste (ou crie) a rota GET /crops/{id} para utilizar datas', isSuite=false, state=RUNNING}]
+2023-11-29 19:16:14,412 [103971195]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 19:17:04,778 [104021561]   WARN - #o.j.j.d.IdeaDecompiler - Inconsistent generic signature in method <init> (Ljava/lang/String;I)V in org/junit/platform/commons/util/ReflectionUtils$HierarchyTraversalMode [org/junit/platform/commons/util/ReflectionUtils]
+2023-11-29 19:17:04,844 [104021627]   WARN - #o.j.j.d.IdeaDecompiler - Inconsistent references to the class 'org/junit/jupiter/engine/descriptor/TestMethodTestDescriptor$1' which is supposed to be anonymous
+2023-11-29 19:17:05,033 [104021816]   WARN - #o.j.j.d.IdeaDecompiler - Inconsistent generic signature in method <init> (Ljava/lang/String;I)V in org/junit/platform/engine/support/hierarchical/Node$ExecutionMode [org/junit/platform/engine/support/hierarchical/Node]
+2023-11-29 19:19:27,567 [104164350]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-29 19:34:51,700 [105088483]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-30 10:32:18,638 [158935421]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-11-30 10:32:49,939 [158966722] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 14 >= 14
+2023-11-30 10:32:49,939 [158966722] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 14 >= 14

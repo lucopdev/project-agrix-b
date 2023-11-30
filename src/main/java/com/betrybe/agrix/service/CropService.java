@@ -7,6 +7,7 @@ import com.betrybe.agrix.model.entities.Crop;
 import com.betrybe.agrix.model.entities.Farm;
 import com.betrybe.agrix.model.repositories.CropRepository;
 import com.betrybe.agrix.model.repositories.FarmRepository;
+import java.time.LocalDate;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -124,4 +125,15 @@ public class CropService {
     );
     return cropDto;
   }
+
+  public List<Crop> getCropByDate(LocalDate start, LocalDate end) {
+    List<Crop> cropsList = cropRepository.findAll();
+    
+    cropsList = cropsList.stream()
+        .filter(crop -> crop.getHarvestDate().isBefore(end) && crop.getHarvestDate().isAfter(start))
+        .toList();
+
+    return cropsList;
+  }
 }
+
