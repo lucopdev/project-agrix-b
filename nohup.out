@@ -1031,3 +1031,7 @@ Caused by: java.lang.ClassNotFoundException: com.fasterxml.jackson.dataformat.ya
 2023-12-01 13:59:46,602 [257783385]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-12-01 14:11:05,993 [258462776]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-12-01 14:11:32,893 [258489676]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 14:52:17,125 [260933908]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 14:53:32,486 [261009269]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 15:08:34,952 [261911735]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 15:26:51,950 [263008733]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
