@@ -1028,3 +1028,6 @@ Caused by: java.lang.ClassNotFoundException: com.fasterxml.jackson.dataformat.ya
 2023-12-01 13:51:20,441 [257277224]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-12-01 13:58:24,239 [257701022] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 14 >= 14
 2023-12-01 13:58:24,239 [257701022] SEVERE - com.jediterm.terminal.model.TerminalTextBuffer - Attempt to get line out of bounds: 14 >= 14
+2023-12-01 13:59:46,602 [257783385]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 14:11:05,993 [258462776]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 14:11:32,893 [258489676]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
