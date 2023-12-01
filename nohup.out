@@ -1035,3 +1035,14 @@ Caused by: java.lang.ClassNotFoundException: com.fasterxml.jackson.dataformat.ya
 2023-12-01 14:53:32,486 [261009269]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-12-01 15:08:34,952 [261911735]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
 2023-12-01 15:26:51,950 [263008733]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 15:53:14,008 [264590791]   WARN - #c.i.i.n.ide - Data rule [navigationBarItem] returned invalid context item of type [class com.intellij.psi.impl.source.PsiFieldImpl]
+2023-12-01 16:00:36,893 [265033676]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:01:10,675 [265067458]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:05:33,954 [265330737]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:07:12,431 [265429214]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:07:30,307 [265447090]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:17:26,018 [266042801]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:19:19,692 [266156475]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:28:58,836 [266735619]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:50:07,452 [268004235]   WARN - #o.j.k.i.s.r.KotlinCompilerReferenceIndexStorage - kotlin-data-container is not found
+2023-12-01 16:55:10,936 [268307719]   WARN - #c.i.o.a.i.ActionUpdater - 309 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)

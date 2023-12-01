@@ -160,4 +160,12 @@ public class Crop {
   public void setPlantedArea(Double plantedArea) {
     this.plantedArea = plantedArea;
   }
+
+  public List<Fertilizer> getFertilizerList() {
+    return fertilizerList;
+  }
+
+  public void setFertilizerList(List<Fertilizer> fertilizerList) {
+    this.fertilizerList = fertilizerList;
+  }
 }
