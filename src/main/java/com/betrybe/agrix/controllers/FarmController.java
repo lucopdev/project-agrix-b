@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
  * The type Farm controller.
  */
 @RestController
-@RequestMapping(value = "/farms")
+@RequestMapping("/farms")
 public class FarmController {
 
   private final FarmService farmService;

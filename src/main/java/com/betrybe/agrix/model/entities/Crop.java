@@ -7,9 +7,13 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
+import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * The type Crop.
@@ -35,6 +39,15 @@ public class Crop {
   @JoinColumn(name = "farm_id")
   @JsonIgnore
   private Farm farm;
+
+  @ManyToMany
+  @JoinTable(
+      name = "crop_fertilizer",
+      joinColumns = @JoinColumn(name = "fertilizer_id"),
+      inverseJoinColumns = @JoinColumn(name = "crop_id")
+  )
+
+  private List<Fertilizer> fertilizerList = new ArrayList<>();
 
   /**
    * Instantiates a new Crop.

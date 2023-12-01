@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/crops")
 public class CropController {
 
-  private CropService cropService;
+  private final CropService cropService;
 
   /**
    * Instantiates a new Crop controller.
